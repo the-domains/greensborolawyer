@@ -1,7 +1,7 @@
-name: GreensboroLawyer
+name: Greensboro Lawyer
 favicon: null
-layout_spectrum: 0.597840727539733
-typography_spectrum: 0.31623306358233094
+layout_spectrum: 0.24554
+typography_spectrum: 0.45354
 title: >-
   Greensboro North Carolina Attorney Brandon S. Goldsborough Criminal Defense
   Lawyer DWI Speeding traffic misdemeanors felonies drugs theft assault
@@ -19,11 +19,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#c0b283'
+    - '#f4f4f4'
+    - '#373737'
+    - '#666666'
+    - '#d0d0d0'
   brandStrength: 0.66778459912166
   lightness: 0.9870536488015205
   saturation: 0.6102580318693072
