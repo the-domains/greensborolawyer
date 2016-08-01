@@ -7,21 +7,17 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: '313 South Greene Street, Suite 302, Greensboro, NC 27401'
-datePublished: '2016-08-01T02:40:19.663Z'
-dateModified: '2016-08-01T02:39:37.230Z'
+datePublished: '2016-08-01T02:43:49.038Z'
+dateModified: '2016-08-01T02:43:24.349Z'
 title: Goldsborough Law
 author:
-  - name: Attorney Brandon S. Goldsborough
-    url: www.goldsboroughlaw.com
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-01-goldsborough-law.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-starred: false
+publisher: {}
+starred: true
 _type: MediaObject
 
 ---
